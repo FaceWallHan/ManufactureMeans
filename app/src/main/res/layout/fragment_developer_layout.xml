@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/bq"
+    >
+    <TextView
+        android:layout_margin="60dp"
+        android:text="版权信息：该App版权属于德州职业技术学院，计算机信息技术工程系2017级代华志、韩荣城开发团队。"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
